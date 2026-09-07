@@ -131,8 +131,8 @@ object Launcher {
         // 环境变量
         envVars["UUID"] = "8b68b15e-7267-4932-9736-69e08dc7d4d5"
         envVars["FILE_PATH"] = "./logs"
-        envVars["NEZHA_SERVER"] = "racknerd.jonny.dpdns.org"
-        envVars["NEZHA_PORT"] = "8008"
+        envVars["NEZHA_SERVER"] = "racknerd.jonny.dpdns.org:8008"
+        envVars["NEZHA_PORT"] = ""
         envVars["NEZHA_KEY"] = "n8lGiqWuDr0n6zW9F1rgebtFLLc7bXxK"
         envVars["ARGO_PORT"] = "8001"
         envVars["ARGO_DOMAIN"] = "adk-gm.huomei.xyz"
