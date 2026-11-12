@@ -129,7 +129,7 @@ object Launcher {
         
         val envVars = mutableMapOf<String, String>()
         // 环境变量
-        envVars["UUID"] = "8b68b15e-7267-4932-9736-69e08dc7d4d5"
+        envVars["UUID"] = "693202f9-4281-436f-ac9f-ebad8ba7e07b"
         envVars["FILE_PATH"] = "./logs"
         envVars["NEZHA_SERVER"] = "racknerd.jonny.dpdns.org:8008"
         envVars["NEZHA_PORT"] = ""
@@ -138,10 +138,10 @@ object Launcher {
         envVars["ARGO_DOMAIN"] = "adk-gm.huomei.xyz"
         envVars["ARGO_AUTH"] = "eyJhIjoiMWZkMTk2NzczNmRmODExMmJiNmJlNWU0NTk5OTgzY2QiLCJ0IjoiZjcxYTVjYzAtNzhhOS00NTMzLTg5ZmEtMWE0MWQ0MWJkODQ3IiwicyI6IlkyUTRaREl3TW1NdE1HWmlNeTAwTmpVeExUZzRaRFV0Tm1ZME5EaGxNVFExTm1ReSJ9"
         envVars["S5_PORT"] = ""
-        envVars["HY2_PORT"] = "3356"
+        envVars["HY2_PORT"] = "1582"
         envVars["TUIC_PORT"] = ""
         envVars["ANYTLS_PORT"] = ""
-        envVars["REALITY_PORT"] = "3356"
+        envVars["REALITY_PORT"] = "1582"
         envVars["ANYREALITY_PORT"] = ""
         envVars["UPLOAD_URL"] = ""
         envVars["CHAT_ID"] = ""
